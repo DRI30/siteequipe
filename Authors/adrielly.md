@@ -1,4 +1,4 @@
 ## adrielly
 
-[site/curricilo])ghttps://github.com/DRI30/siteequipe.git)
+[site/curricilo](dri.30.io)
 [Instagram](https://github.com/DRI30/siteequipe.git)
