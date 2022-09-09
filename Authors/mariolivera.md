@@ -1,4 +1,4 @@
 # mario
 - fullstack developer
-
-[site/curriculo](https://mariolivera.github.oi)
+---
+- [site/curriculo](https://mariolivera.github.oi)
